@@ -7,11 +7,15 @@ For part 2 ("VacationPy"), hvplot.pandas was utilised to create map visualisatio
 
 # files
 All files are located in the "Weather_Py" folder.
+
 The Jupyter notebook script for part 1 is titled "WeatherPy.ipynb".
+
 The Jupyter notebook script for part 2 is titled "VacationPy.ipynb".
 
 All output data is contained in the folder titled "output_data".
+
 "cities.csv" contains the output data from part 1.
+
 The scatter plots from part 1 are listed in order - "Fig1", "Fig2" etc.
 
 # references
